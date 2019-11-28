@@ -7,7 +7,7 @@ El primero día del evento estuvieron presentes:
 | Catering Comidissimo | Leticia Sarabia |
 | Asociación Restaurantes sostenibles Madrid | Federica Marzioni |
 
-### Pablo Stürzer \| Farmidable
+## Pablo Stürzer \| Farmidable
 
 ![](../.gitbook/assets/27112019-img_4258-2.jpg)
 
@@ -15,7 +15,7 @@ El primero día del evento estuvieron presentes:
 
 
 
-### Leticia Sarabia \| Catering Comidissimo
+## Leticia Sarabia \| Catering Comidissimo
 
 ![](../.gitbook/assets/27112019-img_4272-2.jpg)
 
@@ -25,7 +25,7 @@ Ver video de presentación:
 
 
 
-### Federica Marzioni \| Asociación Restaurantes sostenibles Madrid
+## Federica Marzioni \| Asociación Restaurantes sostenibles Madrid
 
 ![](../.gitbook/assets/27112019-img_4281-2.jpg)
 

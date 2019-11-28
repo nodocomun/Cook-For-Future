@@ -12,7 +12,7 @@ Puedes usarlas bajo licencia Creative Commons BY-NC-SA que quiere decir que debe
 
 {% embed url="https://archive.org/details/cookforfuture27" %}
 
-### Una selección de lo vivido
+## Una selección de lo vivido
 
 ![](../.gitbook/assets/27112019-img_4177-2.jpg)
 
