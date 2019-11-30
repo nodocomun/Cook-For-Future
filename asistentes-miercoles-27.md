@@ -1,4 +1,4 @@
-# Organizaciones asistentes miércoles 27
+# Organizaciones asistentes
 
 El miércoles 27 estuvieron presentes personas de las siguientes organizaciones. Los datos están sacados de la base de datos generada a través del formulario de registro así que están presentes quienes desearon registrarse a nombre de la organización.
 
@@ -16,7 +16,6 @@ Dejamos aquí un registro de los nombres de éstas y páginas webs para posibles
 | GABARRERA SOC. COOP. MAD. | [www.cervezasgabarrera.com](https://cervezasgabarrera.com/slide_cooperativa_2/) |
 | Instituto Tecnológico Fuenllana | [http://it.fuenllana.net](http://it.fuenllana.net/) |
 | Asociación Diabetes Madrid | [https://diabetesmadrid.org/](https://diabetesmadrid.org/) |
-| Fundacion Incyde | [https://www.incyde.org/](https://www.incyde.org/) |
 | Fundación Tomillo | [www.tomillo.org](https://tomillo.org/) |
 | Secretaría General Iberoamericana | [www.segib.org](https://www.segib.org/) |
 | IES CORTES DE CÁDIZ | [/iescortesdecadiz.es](https://www.educa2.madrid.org/web/iescortesdecadiz.es) |
