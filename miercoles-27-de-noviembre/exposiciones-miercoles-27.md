@@ -5,7 +5,7 @@ El primero día del evento estuvieron presentes:
 | Farmidable | Pablo Stürzer |
 | :--- | :--- |
 | Catering Comidissimo | Leticia Sarabia |
-| Asociación Restaurantes sostenibles Madrid | Federica Marzioni |
+| Asociación Restaurantes Sostenibles Madrid | Federica Marzioni |
 
 ## Pablo Stürzer \| Farmidable
 
