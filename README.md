@@ -14,13 +14,23 @@ Durante dos días intensos se dieron cita personas y organizaciones de diversos 
 
 Desde inicios de 2018 hemos estado dedicándonos al proyecto **Cook for Future** cocinando recetas de futuro para la **promoción de empresas e iniciativas sociales en el ámbito de la restauración y la gastronomía en Europa.**  
   
- Sentimos este proyecto como un proceso vivo, y por ello **queremos invitarte a co-crear una proyección de futuro** en donde estarán presentes actores, que como tú, trabajan en el **sector de la formación, educación e investigación.**  
+ Sentimos este proyecto como un proceso vivo, y por ello **realizamos un evento para co-crear una proyección de futuro** en donde estuvieron presentes actores que trabajan en el **sector de la formación, educación e investigación.**  
   
- **Serán dos días dedicados a enlazarnos** a través de la colaboración, conversación e intercambio de experiencias.
+ **Fueron dos días dedicados a enlazarnos** a través de la colaboración, conversación e intercambio de experiencias.
 
 {% hint style="success" %}
 _"Cook for Future" es un proyecto que está financiado con Fondos Europeos \(en el marco de Erasmus+: Ref. Project: 2017-1-ES01-KA202-038142\)_
 {% endhint %}
 
 ![](.gitbook/assets/faldon-logos-cook4future.png)
+
+### \*\*\*\*
+
+### \*\*\*\*
+
+### **Créditos**
+
+**Producción y comunicación:** [Nodo Común](https://www.nodocomun.org).  
+**Dinamización:** Raquel Racionero - raquelracionero@gmail.com  
+**Video:** Willy Veleta - guillew@mac.com
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Cook For Future \| Un enlace multiplicador](README.md)
-* [Organizaciones asistentes](asistentes-miercoles-27.md)
+* [Organizaciones registradas](asistentes-miercoles-27.md)
 * [Miércoles 27 de noviembre](miercoles-27-de-noviembre/README.md)
   * [Exposiciones miércoles 27](miercoles-27-de-noviembre/exposiciones-miercoles-27.md)
   * [Fotos miércoles 27](miercoles-27-de-noviembre/fotos-miercoles-27.md)
