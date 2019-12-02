@@ -14,7 +14,7 @@ Puedes usarlas bajo licencia Creative Commons BY-NC-SA que quiere decir que debe
 
 ## Una selección de lo vivido
 
-![](../.gitbook/assets/28112019-img_4375-2.jpg)
+![](../.gitbook/assets/28112019-img_4375-2%20%281%29.jpg)
 
 ![](../.gitbook/assets/28112019-img_4380-2.jpg)
 
