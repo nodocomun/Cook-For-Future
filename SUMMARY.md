@@ -9,5 +9,5 @@
 * [Jueves 28 de noviembre](jueves-28-de-noviembre/README.md)
   * [Exposiciones jueves 28](jueves-28-de-noviembre/exposiciones-jueves-28.md)
   * [Fotos jueves 28](jueves-28-de-noviembre/fotos-jueves-28.md)
-  * [Asistentes jueves 28](jueves-28-de-noviembre/asistentes-jueves-28.md)
+  * [Degustación de saberes jueves 28](jueves-28-de-noviembre/asistentes-jueves-28.md)
 
