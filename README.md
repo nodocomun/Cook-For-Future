@@ -31,6 +31,7 @@ _"Cook for Future" es un proyecto que está financiado con Fondos Europeos \(en 
 ### **Créditos**
 
 **Producción y comunicación:** [Nodo Común](https://www.nodocomun.org).  
+**Diseño gráfico:** Ana Linares - [http://pontella.es/](http://pontella.es/)  
 **Dinamización:** Raquel Racionero - raquelracionero@gmail.com  
 **Video:** Willy Veleta - guillew@mac.com
 
