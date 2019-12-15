@@ -9,9 +9,11 @@ description: >-
 
 ## Voces de socios Cook For Future
 
+### Marcelo Segales
+
 {% embed url="https://ia801504.us.archive.org/0/items/cookforfuture-videos/Tomillo-Marcelo.mp4" %}
 
-
+### Pedro Barrios
 
 {% embed url="https://ia801504.us.archive.org/0/items/cookforfuture-videos/Tomillo-Pedro.mp4" %}
 
