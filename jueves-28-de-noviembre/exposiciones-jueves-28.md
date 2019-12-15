@@ -4,11 +4,11 @@ El segundo día del evento estuvieron presentes:
 
 | Organización | Expositor/a |
 | :--- | :--- |
-| Roncalli Catering | Miguel Ángel San Juan |
-| Mescladis | Martín Habiague |
-| Novaterra Catering Consulting | Cristian Mecca |
-| Cuina Justa | Alex Pujol |
-| Mares Madrid | Jaime Fernández |
+| [Roncalli Catering](exposiciones-jueves-28.md#miguel-angel-san-juan-or-roncalli-catering) | Miguel Ángel San Juan |
+| [Mescladis](exposiciones-jueves-28.md#martin-habiague-or-mescladis) | Martín Habiague |
+| [Novaterra Catering Consulting](exposiciones-jueves-28.md#cristian-mecca-or-novaterra-catering-consulting) | Cristian Mecca |
+| [Cuina Justa](exposiciones-jueves-28.md#alex-pujol-or-cuina-justa) | Alex Pujol |
+| [Mares Madrid](exposiciones-jueves-28.md#jaime-fernandez-or-mares-madrid) | Jaime Fernández |
 
 ## Miguel Ángel San Juan \| Roncalli Catering
 

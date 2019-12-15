@@ -4,9 +4,9 @@ El primero día del evento estuvieron presentes:
 
 | Organización | Expositor/a |
 | :--- | :--- |
-| Farmidable | Pablo Stürzer |
-| Catering Comidissimo | Leticia Sarabia |
-| Asociación Restaurantes Sostenibles Madrid | Federica Marzioni |
+| [Farmidable](exposiciones-miercoles-27.md#pablo-stuerzer-or-farmidable) | Pablo Stürzer |
+| [Catering Comidissimo](exposiciones-miercoles-27.md#leticia-sarabia-or-catering-comidissimo) | Leticia Sarabia |
+| [Asociación Restaurantes Sostenibles Madrid](exposiciones-miercoles-27.md#federica-marzioni-or-asociacion-restaurantes-sostenibles-madrid) | Federica Marzioni |
 
 ## Pablo Stürzer \| Farmidable
 
