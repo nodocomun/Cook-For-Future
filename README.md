@@ -20,7 +20,9 @@ Desde inicios de 2018 hemos estado dedicándonos al proyecto **Cook for Future**
 
 ### Mira el video resumen del encuentro
 
-{% embed url="https://ia801504.us.archive.org/0/items/cookforfuture-videos/01-TomilloVideo1.mp4" %}
+{% embed url="https://archive.org/details/cookforfuture-videos\#" %}
+
+
 
 {% hint style="success" %}
 _"Cook for Future" es un proyecto que está financiado con Fondos Europeos \(en el marco de Erasmus+: Ref. Project: 2017-1-ES01-KA202-038142\)_
