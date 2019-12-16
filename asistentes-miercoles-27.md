@@ -1,4 +1,4 @@
-# Organizaciones registradas
+# 🏛️ Organizaciones registradas
 
 Al encuentro han asistido una gran variedad de personas. Reflejamos en esta lista únicamente los datos de las organizaciones que fueron mencionadas en el formulario de registro y que al mismo tiempo forman parte del sector de gastronomía, hostelería y/o economía social.
 
