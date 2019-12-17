@@ -51,22 +51,22 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | :--- | :--- | :--- | :--- |
 | Mareike | Kühnel | mareikekuhnel@gmail.com | Fundación Escuela de Solidaridad |
 | Martin | Habiague | martinh@mescladis.org | Mescladís |
-| Daniel | Cotillas Ruiz | daniel@nodocomun.org | Nodo Comú |
+| Daniel | Cotillas Ruiz | daniel@nodocomun.org | Nodo Común |
 | ALVARO | GUTIÉRREZ | alvaro.gutierrez@gitanos.org | Fundación Secretariado Gitano |
-| federica | marzioni | gestion3@restaurantessostenibles.com | Madrid Restaurantes Sostenibles |
+| Federica | Marzioni | gestion3@restaurantessostenibles.com | Madrid Restaurantes Sostenibles |
 | Carmen | Peña Díaz-Varela | f.continua@fuenllana.net | Instituto Tecnológico Fuenllana |
-| FATIHA | TAHIRI | mediacionfati.ril@gmail.com | Fondacion Tomillo. - Fondacion Escuela de la Solidaridad |
+| Fatiha | Tahiri | mediacionfati.ril@gmail.com | Fondacion Tomillo. - Fondacion Escuela de la Solidaridad |
 | Ana | Alarcón | aialarcon@accioncontraelhambre.org | Acción contra el Hambre |
 | Almendra | Staffa-Healey | almendra.staffa-healey@eusainternships.org | EUSA Academic Internships |
-| josé | Figueroa Grau | jose.figueroa@nortejoven.org | Norte joven |
+| José | Figueroa Grau | jose.figueroa@nortejoven.org | Norte joven |
 | Pablo | Stürzer | pablo@farmidable.es | Farmidable |
-| selene | trotta | strotta@gmail.com | abaco desarrollo |
+| Selene | Trotta | strotta@gmail.com | abaco desarrollo |
 | Raúl | Castro Castro | elmandela.madrid@gmail.com | Amoverse |
 | Fernando | Ramos Martínez | f.ramos@francoargentine.com | La Franco Argentine SA |
-| CHRISTIAN | VÁZQUEZ | direccion@novaterracatering.com | NOVATERRA CATERING |
+| Christian | Vázquez | direccion@novaterracatering.com | NOVATERRA CATERING |
 | Sara | Cabezuela López | saracabezuela@gmail.com | Asociación Norte Joven |
 | Norica Nicoleta | Macioi | nmaciol@ucm.es | UCM |
-| ALEX | PUJOL | alexpujol@cuinajusta.com | CUINA JUSTA |
+| Alex | Pujol | alexpujol@cuinajusta.com | CUINA JUSTA |
 | Amelia | Luengo fernandez | amelitacocinera@yahoo.es | Iñigo de arteaga Sam mames |
 | Amanda | González Saugar | amandasaugar@gmail.com | Consejería de Educación, Cepa Pan Bendito |
 
