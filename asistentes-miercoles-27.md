@@ -53,7 +53,7 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | ALVARO | GUTIÉRREZ | alvaro.gutierrez@gitanos.org | Fundación Secretariado Gitano |
 | Federica | Marzioni | gestion3@restaurantessostenibles.com | Madrid Restaurantes Sostenibles |
 | Carmen | Peña Díaz-Varela | f.continua@fuenllana.net | Instituto Tecnológico Fuenllana |
-| Fatiha | Tahiri | mediacionfati.ril@gmail.com | Fondacion Tomillo. - Fondacion Escuela de la Solidaridad |
+| Fatiha | Tahiri | mediacionfati.ril@gmail.com |  |
 | Ana | Alarcón | aialarcon@accioncontraelhambre.org | Acción contra el Hambre |
 | Almendra | Staffa-Healey | almendra.staffa-healey@eusainternships.org | EUSA Academic Internships |
 | José | Figueroa Grau | jose.figueroa@nortejoven.org | Norte joven |
