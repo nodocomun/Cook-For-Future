@@ -50,7 +50,7 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | Mareike | Kühnel | mareikekuhnel@gmail.com | Fundación Escuela de Solidaridad |
 | Martin | Habiague | martinh@mescladis.org | Mescladís |
 | Daniel | Cotillas Ruiz | daniel@nodocomun.org | Nodo Común |
-| ALVARO | GUTIÉRREZ | alvaro.gutierrez@gitanos.org | Fundación Secretariado Gitano |
+| Álvaro | Gutiérrez | alvaro.gutierrez@gitanos.org | Fundación Secretariado Gitano |
 | Federica | Marzioni | gestion3@restaurantessostenibles.com | Madrid Restaurantes Sostenibles |
 | Carmen | Peña Díaz-Varela | f.continua@fuenllana.net | Instituto Tecnológico Fuenllana |
 | Fatiha | Tahiri | mediacionfati.ril@gmail.com |  |
@@ -65,6 +65,6 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | Sara | Cabezuela López | saracabezuela@gmail.com | Asociación Norte Joven |
 | Norica Nicoleta | Macioi | nmaciol@ucm.es | UCM |
 | Alex | Pujol | alexpujol@cuinajusta.com | CUINA JUSTA |
-| Amelia | Luengo fernandez | amelitacocinera@yahoo.es | Iñigo de arteaga Sam mames |
+| Amelia | Luengo Fernandez | amelitacocinera@yahoo.es | Instituto Iñigo de Arteaga San Mamés |
 | Amanda | González Saugar | amandasaugar@gmail.com | Consejería de Educación, Cepa Pan Bendito |
 
