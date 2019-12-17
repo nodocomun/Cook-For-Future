@@ -66,5 +66,5 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | Norica Nicoleta | Macioi | nmaciol@ucm.es | UCM |
 | Alex | Pujol | alexpujol@cuinajusta.com | CUINA JUSTA |
 | Amelia | Luengo Fernandez | amelitacocinera@yahoo.es | Instituto Iñigo de Arteaga San Mamés |
-| Amanda | González Saugar | amandasaugar@gmail.com | Consejería de Educación, Cepa Pan Bendito |
+| Amanda | González Saugar | amandasaugar@gmail.com | Consejería de Educación, Centro de Educación de Personas Adultas - CEPA Pan Bendito |
 
