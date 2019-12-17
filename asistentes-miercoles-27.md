@@ -59,7 +59,7 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | José | Figueroa Grau | jose.figueroa@nortejoven.org | Asociación Norte Joven |
 | Pablo | Stürzer | pablo@farmidable.es | Farmidable |
 | Selene | Trotta | strotta@gmail.com | abaco desarrollo |
-| Raúl | Castro Castro | elmandela.madrid@gmail.com | Amoverse |
+| Raúl | Castro Castro | elmandela.madrid@gmail.com | Fundación Amoverse |
 | Fernando | Ramos Martínez | f.ramos@francoargentine.com | La Franco Argentine SA |
 | Christian | Vázquez | direccion@novaterracatering.com | NOVATERRA CATERING |
 | Sara | Cabezuela López | saracabezuela@gmail.com | Asociación Norte Joven |
