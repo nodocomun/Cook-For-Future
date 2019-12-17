@@ -56,7 +56,7 @@ Las siguientes personas han querido compartir sus contactos para así poder gene
 | Fatiha | Tahiri | mediacionfati.ril@gmail.com |  |
 | Ana | Alarcón | aialarcon@accioncontraelhambre.org | Acción contra el Hambre |
 | Almendra | Staffa-Healey | almendra.staffa-healey@eusainternships.org | EUSA Academic Internships |
-| José | Figueroa Grau | jose.figueroa@nortejoven.org | Norte joven |
+| José | Figueroa Grau | jose.figueroa@nortejoven.org | Asociación Norte Joven |
 | Pablo | Stürzer | pablo@farmidable.es | Farmidable |
 | Selene | Trotta | strotta@gmail.com | abaco desarrollo |
 | Raúl | Castro Castro | elmandela.madrid@gmail.com | Amoverse |
