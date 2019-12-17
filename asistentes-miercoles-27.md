@@ -39,3 +39,34 @@ Dejamos aquí un registro de los nombres de éstas y páginas webs para posibles
 
 **¿Faltas tú?** Escribemos a pedro.barrios@tomillo.org y te sumaremos a la lista para que puedan ponerse en contacto con tu organización.
 
+
+
+## Contactos personales
+
+Las siguientes personas han querido compartir sus contactos para así poder generar nuevos enlaces:
+
+
+
+| Nombre | Apellidos | Dirección de correo electrónico | Organización de la que forma parte |
+| :--- | :--- | :--- | :--- |
+| Mareike | Kühnel | mareikekuhnel@gmail.com | Fundación Escuela de Solidaridad |
+| Martin | Habiague | martinh@mescladis.org | Mescladís |
+| Daniel | Cotillas Ruiz | daniel@nodocomun.org | Nodo Comú |
+| ALVARO | GUTIÉRREZ | alvaro.gutierrez@gitanos.org | Fundación Secretariado Gitano |
+| federica | marzioni | gestion3@restaurantessostenibles.com | Madrid Restaurantes Sostenibles |
+| Carmen | Peña Díaz-Varela | f.continua@fuenllana.net | Instituto Tecnológico Fuenllana |
+| FATIHA | TAHIRI | mediacionfati.ril@gmail.com | Fondacion Tomillo. - Fondacion Escuela de la Solidaridad |
+| Ana | Alarcón | aialarcon@accioncontraelhambre.org | Acción contra el Hambre |
+| Almendra | Staffa-Healey | almendra.staffa-healey@eusainternships.org | EUSA Academic Internships |
+| josé | Figueroa Grau | jose.figueroa@nortejoven.org | Norte joven |
+| Pablo | Stürzer | pablo@farmidable.es | Farmidable |
+| selene | trotta | strotta@gmail.com | abaco desarrollo |
+| Raúl | Castro Castro | elmandela.madrid@gmail.com | Amoverse |
+| Fernando | Ramos Martínez | f.ramos@francoargentine.com | La Franco Argentine SA |
+| CHRISTIAN | VÁZQUEZ | direccion@novaterracatering.com | NOVATERRA CATERING |
+| Sara | Cabezuela López | saracabezuela@gmail.com | Asociación Norte Joven |
+| Norica Nicoleta | Macioi | nmaciol@ucm.es | UCM |
+| ALEX | PUJOL | alexpujol@cuinajusta.com | CUINA JUSTA |
+| Amelia | Luengo fernandez | amelitacocinera@yahoo.es | Iñigo de arteaga Sam mames |
+| Amanda | González Saugar | amandasaugar@gmail.com | Consejería de Educación, Cepa Pan Bendito |
+
