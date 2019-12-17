@@ -1,6 +1,6 @@
 # 🥃 Digestivos
 
-Porque después de una buena y rica comida se abre un tiempo para la reflexión y la conversación os dejamos unos digestivos en formas de recomendaciones de peliculas y series para que os tomeis un momento de tranquilidad como mejor opción para la sobremesa.
+Porque después de una buena y rica comida se abre un tiempo para la reflexión y la conversación os dejamos unos digestivos en formas de recomendaciones de películas y series para que os toméis un momento de tranquilidad como mejor opción para la sobremesa.
 
 ## Deliciosa Marta \(2001\)
 
