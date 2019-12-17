@@ -45,8 +45,6 @@ Dejamos aquí un registro de los nombres de éstas y páginas webs para posibles
 
 Las siguientes personas han querido compartir sus contactos para así poder generar nuevos enlaces:
 
-
-
 | Nombre | Apellidos | Dirección de correo electrónico | Organización de la que forma parte |
 | :--- | :--- | :--- | :--- |
 | Mareike | Kühnel | mareikekuhnel@gmail.com | Fundación Escuela de Solidaridad |
