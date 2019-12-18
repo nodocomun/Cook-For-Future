@@ -4,7 +4,7 @@ description: >-
   miércoles 27 y jueves 28 de noviembre de 2019 en Impact Hub de Madrid.
 ---
 
-# 👩‍🍳 Cook For Future \| Un enlace multiplicador
+# Cook For Future \| Un enlace multiplicador
 
 ![](.gitbook/assets/header-gitbook-cok4future.png)
 
