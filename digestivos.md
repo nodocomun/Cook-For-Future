@@ -6,10 +6,6 @@ Porque después de una buena y rica comida se abre un tiempo para la reflexión 
 
 {% embed url="https://youtu.be/x1boFKDWyFg" %}
 
-## Bon Appétit \(2010\) 
-
-{% embed url="https://youtu.be/v73HbCNc4JY" %}
-
 ## El Festín de Babbete \(1987\) 
 
 {% embed url="https://youtu.be/AKuuW1jdzlc" %}
