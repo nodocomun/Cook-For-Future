@@ -13,5 +13,7 @@ A continuación un video que resume la pregunta...
 
 ### ¿Qué significa lo social en tu emprendimiento?
 
-{% embed url="https://ia801504.us.archive.org/0/items/cookforfuture-videos/TomilloconRotulos.mp4" %}
+{% embed url="https://www.youtube.com/watch?v=KCT3dGdybnc" %}
+
+
 
