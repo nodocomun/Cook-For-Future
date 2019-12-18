@@ -4,13 +4,13 @@ El segundo día del evento estuvieron presentes:
 
 | Organización | Expositor/a |
 | :--- | :--- |
-| [Roncalli Catering](exposiciones-jueves-28.md#miguel-angel-san-juan-or-roncalli-catering) | Miguel Ángel San Juan |
+| [Roncalli Catering](exposiciones-jueves-28.md#miguel-angel-san-juan-or-roncalli-catering) | Mamén García y José Alegre |
 | [Mescladis](exposiciones-jueves-28.md#martin-habiague-or-mescladis) | Martín Habiague |
 | [Novaterra Catering Consulting](exposiciones-jueves-28.md#cristian-mecca-or-novaterra-catering-consulting) | Cristian Mecca |
 | [Cuina Justa](exposiciones-jueves-28.md#alex-pujol-or-cuina-justa) | Alex Pujol |
 | [Mares Madrid](exposiciones-jueves-28.md#jaime-fernandez-or-mares-madrid) | Jaime Fernández |
 
-## Miguel Ángel San Juan \| Roncalli Catering
+## Mamén García y a José Alegre \| Roncalli Catering
 
 ![](../.gitbook/assets/28112019-img_4412-2.jpg)
 
