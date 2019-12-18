@@ -20,7 +20,9 @@ Desde inicios de 2018 hemos estado dedicándonos al proyecto **Cook for Future**
 
 ### Mira el video resumen del encuentro
 
-{% embed url="https://archive.org/details/cookforfuture-videos\#" %}
+{% embed url="https://www.youtube.com/watch?v=qLERhhHaPeI" %}
+
+
 
 
 
