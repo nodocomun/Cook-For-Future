@@ -25,4 +25,5 @@
   * [Abel Esteban \| Garúa Cooperativa](videos/abel-esteban-or-garua-cooperativa.md)
   * [Álvaro Gutiérrez \| Secretariado Gitano - Ana Alarcón \| Acción contra el Hambre](videos/alvaro-gutierrez-or-secretariado-gitano-ana-alarcon-or-accion-contra-el-hambre.md)
 * [🥃 Digestivos](digestivos.md)
+* [ERASMUS+ VET STRATEGIC PARTNERSHIPS](erasmus+-vet-strategic-partnerships.md)
 
